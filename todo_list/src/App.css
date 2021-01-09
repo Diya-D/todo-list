@@ -1,0 +1,26 @@
+body{
+  background-color: #00ced1;
+}
+.App{
+  background-color: #191970;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+}
+#one{
+  background-color: #00fa9a;
+  border: 0;
+  width: 200px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 20px;
+  border-radius: 10px;
+  color: #000;
+}
+#button{
+  height: 50px;
+  width: 50px;
+  border-radius: 5px;
+  border: 0;
+  background-color:#00fa9a;
+}

@@ -1,0 +1,16 @@
+.list{
+    color: #fff;
+    width: 300px;
+    margin: 20px auto;
+    height: 50px;
+    background-color:#00fa9a;
+    border-radius: 5px;
+    user-select: none;
+    cursor: move;
+    
+}
+.list p{
+    padding: 10px;
+    position: relative;
+    transition: ease-in-out;
+}
